@@ -1,4 +1,4 @@
-# CRUD MongoDB com PyMongo (atividade individual)
+# CRUD MongoDB com PyMongo 
 
 Projeto simples que demonstra operações **CRUD** (Create, Read, Update, Delete) em uma coleção `alunos` no MongoDB usando **PyMongo**.
 
